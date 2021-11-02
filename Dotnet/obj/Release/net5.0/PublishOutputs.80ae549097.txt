@@ -1,0 +1,16 @@
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\tranzactestapi.exe
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\appsettings.json
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\tranzactestapi.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\tranzactestapi.deps.json
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\tranzactestapi.runtimeconfig.json
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\tranzactestapi.pdb
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mfrch\tranzactestapi\bin\Release\net5.0\publish\System.Diagnostics.DiagnosticSource.dll
