@@ -44,10 +44,12 @@ namespace tranzactestapi.Repository
 
         public Contact UpdateContact(Contact contact)
         {
-            if (!Contacts.Any(g => g.ContactId == contact.ContactId))
+            if (!Contacts.AsNoTracking().Any(g => g.ContactId == contact.ContactId))
             {
+                Console.WriteLine("no contact id");
                 return null;
             }
+            Console.WriteLine("inside context, saving update");
             Contacts.Update(contact);
             this.SaveChanges();
             return contact;

@@ -42,7 +42,7 @@ namespace tranzactestapi.Controllers
 
 
         [HttpPost]
-        public async Task<Contact> Post([FromBody] Contact contact)
+        public Contact Post([FromBody] Contact contact)
         {
             contact.Owner = Request.HttpContext.Connection.RemoteIpAddress.ToString();
             return _context.AddContact(contact);
@@ -53,6 +53,7 @@ namespace tranzactestapi.Controllers
         public Contact Put(Contact contact)
         {
             contact.Owner = Request.HttpContext.Connection.RemoteIpAddress.ToString();
+            Console.WriteLine(contact.Owner);
             return _context.UpdateContact(contact);
         }
 
